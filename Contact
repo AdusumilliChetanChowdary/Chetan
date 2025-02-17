@@ -1,0 +1,54 @@
+<div class="info" id="Contact">
+            <a href="mailto:your-email@example.com"><br>
+                <button style="background-color:#f44336; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                  Email Me
+                </button>
+              </a>
+            <a href="https://www.linkedin.com/in/adusumilli-chetan-chowdary/" target="_blank" rel="noopener noreferrer">
+                <button style="background-color:#0077b5; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                  LinkedIn
+            </button>
+            </a>
+            <a href="https://github.com/AdusumilliChetanChowdary" target="_blank" rel="noopener noreferrer">
+                <button style="background-color:black; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                  GitHub
+                </button>
+            </a>
+            <a href="tel:+91 7569072784">
+                <button style="background-color:#4CAF50; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                  Call Me
+                </button>
+            </a>
+            <a href="https://www.instagram.com/chetan.adusumilli/" target="_blank" rel="noopener noreferrer">
+                <button style="background-color:#E1306C; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                  Instagram
+                </button>
+            </a>
+            <a href="https://www.facebook.com/Adusumilli.Chetan.Chowdary" target="_blank" rel="noopener noreferrer">
+                <button style="background-color:#1877F2; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                Facebook
+                </button>
+              </a>
+              <a href="https://x.com/AdusumillChetan" target="_blank" rel="noopener noreferrer">
+                <button style="background-color:#0b0c0c; color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px;">
+                    X
+                </button>
+            </a>
+            <br><br>
+            <a>
+                <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Map" style="width:30px; height:30px;">
+            </h3><font size="4"</font>
+                <P style="color:rgb(9, 9, 9);">
+                Home Address:<br>
+                22-36;<br>
+                Thurupu Palli(post);<br>
+                Penumur(Mandal);<br>
+                Chittoor(Dist);<br>
+                Andhra Predesh;<br>
+                India;<br>
+                 517126
+                </P>
+            </h3>
+         </a>
+     <br>
+ </div>
